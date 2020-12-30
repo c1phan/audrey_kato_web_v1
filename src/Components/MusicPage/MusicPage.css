@@ -1,0 +1,34 @@
+.harp{
+    height: 27rem;
+    width: 29rem;
+}
+
+.neg_margin{
+    margin-top: -2rem;
+    margin-bottom: 2vw;
+}
+
+.top_margin{
+    margin: 2rem;
+    text-align: center;
+    font-size: 22px;
+}
+
+.negative_margin{
+    margin-top: -2rem;
+    margin-bottom: 2vw;
+}
+
+.left_padding{
+    padding-left: 6rem;
+}
+
+iframe {
+    height: 20rem;
+}
+
+@media (max-width: 1200px) {
+    .neg_margin {
+        margin-top: 0;
+    }
+}

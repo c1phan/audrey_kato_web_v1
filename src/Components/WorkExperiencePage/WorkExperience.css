@@ -1,0 +1,34 @@
+.gray_rectangle{
+    background-color: #D6D9CE;
+    background-position: center;
+    background-size: cover;
+  }
+
+.resume {
+    object-fit: scale-down;
+    margin: 4vw;
+    height: auto;
+    width: 50vw;
+}
+
+.about_section {
+    padding-top: 1rem;
+    color: #F4C3C2;
+    text-align: center;
+}
+
+.about_section .col {
+    padding: 2rem;
+}
+
+.about_header {
+    font-size: 2rem;
+}
+
+.about_images {
+    width: 90%;
+}
+
+.about_image_section {
+    padding-top: 1rem;
+}

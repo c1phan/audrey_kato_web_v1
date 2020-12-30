@@ -1,0 +1,142 @@
+.banner {
+    background-image: url("../../Assets/pink-background.png");
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 8rem;
+  }
+  
+  .web {
+    font-family: "Bangla MN";
+    color: white;
+  }
+  
+  .banner_title {
+    font-size: 9vw;
+    line-height: 12vw;
+  }
+  
+  .banner_header {
+    padding-top: 5rem;
+  }
+  
+  .ugly_bitch {
+    position: absolute;
+    top: 4rem;
+    width: 80%;
+    height: auto;
+    object-fit: scale-down;
+  }
+  
+  .banner_subtitle {
+    padding-top: 3.5rem;
+    font-size: 1.4rem;
+    line-height: 4rem;
+  }
+  
+  .about_text {
+    padding-top: 8rem;
+    font-size: 4.7rem;
+    color: #E5A9A9;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .my_text {
+    padding-top: 2rem ;
+    font-size: 2rem;
+    color: #E5A9A9;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .reg_text{
+    font-size: 1.2rem;
+    font-weight: 100;
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    padding-right: 2.5rem;
+    line-height: 3rem;
+    object-fit: scale-down;
+  }
+  
+  .pink_rectangle{
+    align-content: center;
+    height: auto;
+    width: 786;
+    background-color: rgba(229,169,169,0.73);
+    object-fit: scale-down;
+    margin-bottom: 3rem;
+  }
+  
+  .journey_rectangle{
+    align-content: center;
+    height: auto;
+    width: 786;
+    background-color: rgba(229,169,169,0.73);
+    object-fit: scale-down;
+    margin-bottom: 3rem;
+  }
+  
+  .PCC {
+    height: auto;
+    max-width: 177px;
+    object-fit: scale-down;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+  }
+  
+  .USC {
+    height: auto;
+    max-width: 227px;
+    object-fit: scale-down;
+    padding-top: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+    padding-right: 1rem;
+  }
+  
+  .CHH {
+    height: auto;
+    max-width: 200px;
+    object-fit: scale-down;
+    display: block;
+    padding-left: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+  }
+  
+  .AYS {
+    height: auto;
+    max-width: 150px;
+    object-fit: scale-down;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2rem;
+  }
+  
+  .ugly_bitches {
+    height: auto;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    object-fit: scale-down;
+    padding-bottom: 2rem;
+  }
+  
+  @media (max-width: 960px) {
+    .ugly_bitch {
+      position: relative;
+    }
+  
+    .banner {
+      text-align: center;
+    }
+  }

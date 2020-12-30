@@ -1,0 +1,79 @@
+.page_banner {
+    background-image: url("../src/Assets/pink-background.png");
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 3.2rem;
+  }
+  
+  .web {
+    font-family: "Bangla MN";
+    color: white;
+  }
+  
+  .page_title {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .banner_header {
+    padding-top: 5rem;
+  }
+
+  a {
+      color: white !important;
+  }
+
+  .gray_rectangle{
+    background-color: #D6D9CE;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .pink_rectangle_bg{
+    background-color:rgba(229,169,169,0.61);
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 3rem;
+  }
+
+.underlined_sub{
+    margin: 2rem 0;
+    font-size: 35px;
+    border-bottom: 1px solid white;
+    width: fit-content !important;
+    line-height: 35px;
+}
+
+
+
+.portfolio_header { 
+    background-color: #D6D9CE;;
+    color: white;
+    padding: 1rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+}
+
+.above_padding{
+    padding-top: 5rem;
+}
+
+.sa_padding{
+    padding-top: 2.5rem;
+}
+
+.bs_margin{
+    margin-bottom: 2.5rem;
+}
+
+.bot_margin{
+    margin-bottom: 5rem;
+}
+
+.bigger_font{
+    font-size: 30px;
+}
